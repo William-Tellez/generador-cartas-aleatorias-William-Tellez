@@ -33,4 +33,4 @@ boton.addEventListener("click", generarCarta);
 document.body.appendChild(boton);
 
 // TEMPORIZADOR AUTOMATICO CADA 10 SEGUNDOS
-  setInterval(generarCarta, 10000);
+setInterval(generarCarta, 10000);
